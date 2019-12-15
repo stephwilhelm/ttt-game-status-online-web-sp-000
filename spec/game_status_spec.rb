@@ -163,4 +163,3 @@ describe "./lib/game_status.rb" do
       expect(winner(board)).to be_nil
     end
   end
-end
